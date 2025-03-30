@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&family=Satoshi&display=swap');
+@import 'tailwindcss';
+
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+    --color-primary: rgba(213, 145, 254, 1);
+    --color-primary-light: rgba(248, 218, 254, 1);
+    --color-background: rgba(248, 252, 253, 1);
+    --color-main-light: rgb(248 252 252);
+
+    --color-text: rgba(30, 33, 37, 1);
+    --color-border: rgba(228, 231, 236, 1);
+    --color-success: rgba(2, 122, 72, 1);
+    --color-success-bg: rgba(236, 253, 243, 1);
+    --color-error: rgba(180, 35, 24, 1);
+    --color-error-bg: rgba(254, 243, 242, 1);
+    --font-mono: "Red Hat Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --font-sans: "Satoshi Variable", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: var(--color-primary-light);
+}
