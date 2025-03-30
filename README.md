@@ -69,7 +69,6 @@ The application implements several security measures for API key management:
 1. Environment Variables: API keys are stored in `.env` files (not committed to version control)
 2. Client-side Security: API keys are only exposed to the client when necessary
 3. Server-side Validation: All API requests are validated before processing
-4. Rate Limiting: Implemented to prevent abuse of API endpoints
 
 ## 🚀 Running the Application
 
@@ -149,11 +148,3 @@ yarn build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- North Test Assessment team for providing the opportunity
-- All contributors who have helped with the project
