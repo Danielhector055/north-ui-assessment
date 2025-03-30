@@ -5,7 +5,7 @@ A modern web application built with SvelteKit, featuring real-time data visualiz
 ## 🎨 Design
 
 The application design can be viewed in Figma:
-[View Figma Design](https://www.figma.com/file/your-design-file)
+[View Figma Design](https://www.figma.com/design/QJrC89qBw9jQ04C1Zz7oRk/North-UI-assessment?node-id=1-16032&t=ONepl6wMVUXwf1PB-0)
 
 ## 🚀 Features
 
